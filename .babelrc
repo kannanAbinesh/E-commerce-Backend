@@ -1,0 +1,5 @@
+/* https://josephinegyamera.medium.com/using-es6-syntax-import-export-in-node-js-with-babel-7ef48b874c52 */
+
+{
+    "presets": ["@babel/preset-env"]
+}

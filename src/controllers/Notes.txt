@@ -1,0 +1,25 @@
+adminRoutes : 
+
+1. adminLogin ---> admin and admin users login.
+2. getBlogDetails ---> blogs such as contact-us, about us and so on.
+3. updatePassword ---> admin and admin users passwords can be updated.
+4. getSiteSettings ---> getting the data for sitesettings section in admin panel 
+                        and for config settings in admin pannel.
+                        and it is differenciated by appSettings and configSettings.(by sending as a params in routes).
+5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note :
+
+1.js-base64. encode and decode data for passing in values in url. (React)
