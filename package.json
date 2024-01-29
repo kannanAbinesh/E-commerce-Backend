@@ -6,7 +6,7 @@
   "author": "\"VR Groups\"",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon --exec babel-node src/server.js"
+    "start": "src/server.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
